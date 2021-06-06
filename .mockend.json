@@ -11,8 +11,8 @@
     "post": "Post"
   },
   "User": {
-    "id": 1,
-    "firstName": "Octavius",
-    "lastName": "Bowman"
+    "id": "int",
+    "firstName": "string",
+    "lastName": "string"
   }
 }
